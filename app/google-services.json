@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924489167542",
+    "firebase_url": "https://foodmonkey-457b5.firebaseio.com",
+    "project_id": "foodmonkey-457b5",
+    "storage_bucket": "foodmonkey-457b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924489167542:android:604878771f39d25f886c17",
+        "android_client_info": {
+          "package_name": "com.ketmanee.foodmonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924489167542-4js3bjbhujim0gb03hf6od35sgct5akg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ketmanee.foodmonkey",
+            "certificate_hash": "f33f1496ab1fd5f269a87b6e52e9113c5544659c"
+          }
+        },
+        {
+          "client_id": "924489167542-vtmdtsscecqkr6e7k15t81mklh109359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMYi2BtTkCwrCzKo1OFtLrLi6IcMDAWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924489167542-vtmdtsscecqkr6e7k15t81mklh109359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
